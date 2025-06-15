@@ -1,9 +1,9 @@
 {
     "display_name": "Silly Manga",
     "author": "Roo",
-    "js": "content.js",
+    "js": "sillymanga.js",
     "css": "style.css",
-    "settings_html": "settings.html",
+    "settings_html": "sillymanga.html",
     "requires": [],
     "optional": [],
     "version": "1.0.0",
