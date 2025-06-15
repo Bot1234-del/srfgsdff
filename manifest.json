@@ -3,7 +3,7 @@
     "loading_order": 9,
     "requires": [],
     "optional": [],
-    "js": "sillymanga.js",
+    "js": "index.js",
     "css": "style.css",
     "author": "Roo",
     "version": "1.0.0",
