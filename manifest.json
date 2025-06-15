@@ -3,7 +3,7 @@
     "loading_order": 9,
     "requires": [],
     "optional": [],
-    "js": "index.js",
+    "js": "content.js",
     "css": "style.css",
     "author": "Roo",
     "version": "1.0.0",
