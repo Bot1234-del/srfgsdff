@@ -1,0 +1,11 @@
+{
+    "display_name": "Silly Manga",
+    "loading_order": 9,
+    "requires": [],
+    "optional": [],
+    "js": "sillymanga.js",
+    "css": "style.css",
+    "author": "Roo",
+    "version": "1.0.0",
+    "homePage": ""
+}

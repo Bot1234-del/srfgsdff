@@ -1,0 +1,15 @@
+.sillymanga-settings .sillymanga_block {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.sillymanga-settings #character_keywords div {
+    margin-bottom: 5px;
+}
+
+.sillymanga-settings .delete_character {
+    margin-left: 10px;
+    cursor: pointer;
+    color: red;
+}
